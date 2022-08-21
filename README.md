@@ -6,7 +6,7 @@
 This project is a Data Visualization project with Python, which is an important skill that is used in many parts of the data analysis process. This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process, which are:
 
 -	Part I: Exploratory data visualization, that involved the use of Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. Exploratory data visualization generally occurs during and after data wrangling process, and it is the main method I deployed in understanding the patterns and relationships present in the data. This understanding helped me approach the statistical analyses and helped in building conclusions and findings. This process also illuminated additional data cleaning tasks to be performed.
--	
+
 -	Part II: Explanatory data visualization, that involved the production of a short presentation that illustrates interesting properties, trends, and relationships that is discovered in any given dataset. The primary method of conveying my findings was through transforming the exploratory visualizations from the first part into polished, explanatory visualizations. Explanatory data visualization techniques are used after generating key findings, and are used to help communicate results to others.
 
 ## Datasets
