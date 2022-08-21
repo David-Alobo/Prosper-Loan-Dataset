@@ -11,7 +11,7 @@ This project is a Data Visualization project with Python, which is an important 
 
 ## Datasets
 
-The Dataset for this is the Prosper Loan Data (Download here). This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. About 10 -15 variables were explored for this project.
+The Dataset for this is the Prosper Loan Data. This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. About 10 -15 variables were explored for this project.
 
 ## Key Findings
 
